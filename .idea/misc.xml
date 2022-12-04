@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout-w1240dp/content_scrolling_inicio_subastas.xml" value="0.1" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout-w936dp/content_scrolling_inicio_subastas.xml" value="0.23901808785529716" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_detalle_potero.xml" value="0.30720720720720723" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_inicio_subasta.xml" value="0.1" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_lista_subastas.xml" value="0.1" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_login.xml" value="0.30720720720720723" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_lista_subastas.xml" value="0.1" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_main.xml" value="0.30720720720720723" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_scrolling_inicio_subastas.xml" value="0.16666666666666666" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/item_list_subastas.xml" value="0.25" />
+        <entry key="..\:/Alejo/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/item_list_subastas_propietario.xml" value="0.1" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/drawable-xxxhdpi/borde_blanc.xml" value="0.12" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_control_agricola.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_detalle_enfermedad.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_inicio__ganderapp.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_manejo_animales_levante.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_manejo_animales_prod.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/activity_perfil__animal.xml" value="0.17119565217391305" />
+        <entry key="..\:/GANACAMP/Proyecto_Esmeralda/app/src/main/res/layout/content_inicio_app.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.12382864792503347" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout-w1240dp/content_scrolling_inicio_subastas.xml" value="0.12382864792503347" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout-w900dp/itemdetallesubasta_list.xml" value="0.13359375" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_inicio__ganderapp.xml" value="0.1" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_inicio_subasta.xml" value="0.16576576576576577" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_itemdetallesubasta_detail.xml" value="0.1" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_itemdetallesubasta_list.xml" value="0.17220543806646527" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_lista_subastas.xml" value="0.16576576576576577" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_perfil_subasta.xml" value="0.25" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/activity_registro_subastas.xml" value="0.15" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_detalle_subasta.xml" value="0.16576576576576577" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_lista_subastas.xml" value="0.16576576576576577" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_perfil_subastar_animal.xml" value="0.25" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/content_scrolling_inicio_subastas.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/deseas_view_fragment_p_animal_m.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/fragment_inicio_p_animal.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/itemdetallesubasta_list.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/layout/itemdetallesubasta_list_content.xml" value="0.1" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/menu/menu_detalle_potrero.xml" value="0.1" />
+        <entry key="..\:/Users/townc/AndroidStudioProjects/Proyecto_Esmeralda/app/src/main/res/menu/menu_perfil__animal.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
